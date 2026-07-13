@@ -9,22 +9,35 @@ CS50P is an introduction to programming using Python, designed to teach the fund
 The course focuses on building strong programming foundations and learning how to write clear, efficient, and reliable Python programs.
 
 Topics Covered
+
 🐍 Python fundamentals
+
 📦 Variables and data types
+
 🔀 Conditional statements
+
 🔁 Loops
+
 🧩 Functions
+
 ⚠️ Exception handling
+
 📚 Python libraries
+
 🧪 Unit testing
+
 📄 File input/output
+
 🔎 Regular expressions
+
 🏗️ Object-oriented programming
 
 🛠️ Technologies Used
+
 Python
 Pytest
 Git & GitHub
+
 🎯 Skills Developed
 
 By completing CS50P, I developed experience in:
@@ -36,6 +49,7 @@ Testing and debugging applications
 Working with files and external libraries
 Applying object-oriented programming concepts
 Improving code readability and maintainability
+
 🚀 Final Project
 
 The final project applies the concepts learned throughout the course to create a complete Python application independently designed and implemented.
